@@ -1,0 +1,2 @@
+-record (obsproc, {name, body}).
+-record (obssym, {name}).
